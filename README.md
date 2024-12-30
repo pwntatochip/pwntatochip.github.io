@@ -1,2 +1,2 @@
 # derekdilger.com
-A playground for git, and CSC193A. Hello, Professor Kane!
+writing to help thinking
