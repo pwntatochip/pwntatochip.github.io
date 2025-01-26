@@ -1,2 +1,2 @@
 # derekdilger.com
-writing to help thinking
+writing helps thinking
